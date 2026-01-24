@@ -22,4 +22,4 @@ let state = null;
 
 // Object
 
-console.log(typeof null);
+console.log(typeof null);// Object
